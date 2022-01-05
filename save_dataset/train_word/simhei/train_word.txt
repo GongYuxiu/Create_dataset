@@ -1,0 +1,10 @@
+save_dataset/train_word/simhei/MjcxLUpLIDI0MDXlhazmlqQ_8.jpg 3 8 2 11 12 13 3 5 1 6 14 15
+save_dataset/train_word/simhei/MTA1LUpLIDI3MzDlhazmlqQ_3.jpg 2 1 6 11 12 13 3 8 4 1 14 15
+save_dataset/train_word/simhei/NDg4LUpLIDM3ODflhazmlqQ_0.jpg 5 9 9 11 12 13 4 8 9 8 14 15
+save_dataset/train_word/simhei/NDMwLUpLIDIwMDblhazmlqQ_7.jpg 5 4 1 11 12 13 3 1 1 7 14 15
+save_dataset/train_word/simhei/NDQzLUpLIDE0ODLlhazmlqQ_9.jpg 5 5 4 11 12 13 2 5 9 3 14 15
+save_dataset/train_word/simhei/NjQyLUpLIDEyNDnlhazmlqQ_2.jpg 7 5 3 11 12 13 2 3 5 10 14 15
+save_dataset/train_word/simhei/NTEwLUpLIDIxMDflhazmlqQ_4.jpg 6 2 1 11 12 13 3 2 1 8 14 15
+save_dataset/train_word/simhei/NTIzLUpLIDI4NDnlhazmlqQ_5.jpg 6 3 4 11 12 13 3 9 5 10 14 15
+save_dataset/train_word/simhei/NzIxLUpLIDEwNTnlhazmlqQ_1.jpg 8 3 2 11 12 13 2 1 6 10 14 15
+save_dataset/train_word/simhei/ODY5LUpLIDIxOTLlhazmlqQ_6.jpg 9 7 10 11 12 13 3 2 10 3 14 15
